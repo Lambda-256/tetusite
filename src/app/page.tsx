@@ -1,11 +1,5 @@
-import { Button } from '@/components/ui/button';
+import { Top } from './home';
 
 export default function Home() {
-  return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <div>
-        <Button>クリック！</Button>
-      </div>
-    </main>
-  );
+  return <Top />;
 }
