@@ -60,7 +60,7 @@
       "error",
       {
         "trailingComma": "all",
-        "endOfLine": "lf",
+        "endOfLine": "off",
         "semi": true,
         "singleQuote": true,
         "printWidth": 80,
