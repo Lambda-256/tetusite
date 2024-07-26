@@ -21,14 +21,14 @@ export const Header: FC = () => {
           施術メニュー
         </Link>
         <Link
-          href="#"
+          href="/contract"
           className="text-sm font-medium hover:underline underline-offset-4 text-primary-foreground text-black"
           prefetch={false}
         >
           予約方法
         </Link>
         <Link
-          href="#"
+          href="/khers"
           className="text-sm font-medium hover:underline underline-offset-4 text-primary-foreground text-black"
           prefetch={false}
         >
@@ -36,7 +36,7 @@ export const Header: FC = () => {
         </Link>
 
         <Link
-          href="#"
+          href="/access"
           className="text-sm font-medium hover:underline underline-offset-4 text-primary-foreground text-black"
           prefetch={false}
         >
